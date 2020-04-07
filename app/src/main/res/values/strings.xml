@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">RWID</string>
+    <string name="Start">Start</string>
+    <string name="Options">Options</string>
+    <string name="Commencer_soiree">Commencer une soirée</string>
+    <string name="name">Nom</string>
+    <string name="endTime">Heure de fin :</string>
+    <string name="add">Ajouter</string>
+    <string name="Voir">Voir</string>
+    <string name="commencer">Commencer</string>
+    <string name="statut">  Terminée</string>
+    <string name="image_view">Photo</string>
+    <string name="btnCatpure">Prendre une photo</string>
+    <string name="AddCommentary">Ajouter un commentaire</string>
+    <string name="ajouter">Ajouter</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ajouter_un_commentaire">Ajouter un commentaire</string>
+    <string name="hippocrate">HIPPOCRATE</string>
+    <string name="_22_00">22:00</string>
+    <string name="commentaire">Commentaire</string>
+    <string name="super_soir_e">Super soirée !</string>
+    <string name="download">download</string>
+    <string name="delete">delete</string>
+    <string name="bienvenue_dans_rwid">Bienvenue dans RWID !</string>
+    <string name="remember_what_i_did">Remember What I Did !</string>
+    <string name="photo">photo</string>
+    <string name="termin">- Terminé</string>
+</resources>
